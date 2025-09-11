@@ -13,5 +13,4 @@ https://developer.android.com
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Lily Wyton` |  `wyton`  |
